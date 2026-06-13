@@ -1,4 +1,4 @@
 - Tokens
-- Embedding 
+- Embeddings
 - Recommendation systems
 - Overview of transformers

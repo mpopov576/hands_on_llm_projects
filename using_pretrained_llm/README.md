@@ -1,1 +1,6 @@
-
+- Text classification
+- Text clustering and topic modeling
+- Prompt engineering
+- Advanced text generation techniques and tools
+- Semantic search and RAG
+- Multimodal LLM

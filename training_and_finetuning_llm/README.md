@@ -1,1 +1,3 @@
-
+- Creating text embedding models
+- Finetuning representation models for classification
+- Finetuning generation models
